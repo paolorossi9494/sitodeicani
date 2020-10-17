@@ -1,0 +1,115 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background: rgb(253,41,123);
+background: linear-gradient(90deg, rgba(253,41,123,1) 0%, rgba(255,88,100,1) 67%, rgba(255,101,91,1) 100%);
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5
+}
+h2{
+  font-family: "Montserrat";
+  font-style: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 20px;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+#first_dog {
+  transform: rotate(20deg);
+  margin-left: 20%;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  text-align: left;
+}
+
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 3rem;
+}
+
+.nav-item {
+  padding-left: 8px;
+}
+
+.downloadbtn{
+margin:5% 3% 5% 0;
+}
+
+.cont_features{
+  margin-top: 7%;
+  text-align: center;
+margin-bottom: 7%;
+}
+.iconF{
+  color: rgb(253,41,123);
+  margin-bottom: 2%;
+}
+.iconF:hover{
+  color: gold;
+}
+p{
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.testimonial-image{
+  width:15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press{
+  padding-left: 15% 7%;
+  background-color: #ef8172;
+  text-align: center;
+
+}
+
+.press_logo{
+  margin: 20px 20px 80px;
+  width: 15%;
+}
+
+#carouselExampleIndicators{
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+.card-title
+{
+  color: black;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ef8172;
+  color:white;
+}
+.fondo{
+  padding-top:10px;
+}
